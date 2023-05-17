@@ -1,6 +1,4 @@
 
-
-
 var isAssignmentDone = true;
 var result= isAssignmentDone ? " You will get job " :  "You will not get Job";
 console.log(result);
