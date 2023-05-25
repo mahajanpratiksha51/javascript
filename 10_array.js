@@ -103,6 +103,7 @@ for (const index in arrayNames) {
 
 console.log(`------------ for of loop -----------------`);
 for (const element of arrayNames) {
+   
     console.log(element);
 }
 
