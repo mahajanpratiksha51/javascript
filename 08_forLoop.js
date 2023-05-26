@@ -51,8 +51,7 @@ reverseWord("JavaScript");
 reverseWord("Google Chrome");
 reverseWord("Developer");
 
-var wordLength=word.length
-for(index=0;index<wordLength;index++);
+
 
 
 
