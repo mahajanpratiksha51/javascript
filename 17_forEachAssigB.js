@@ -57,10 +57,8 @@ console.log(`-------------------------------------------------------------------
 console.log(`5) Find the IT and HR department emp whose salary is grater than equal to 75000`);
 
 arrayEmployes.forEach((employee) =>{
-    if(employee.empDept=="IT" ||employee.empDept=="HR" ){
-        
+    if((employee.empDept=="IT" ||employee.empDept=="HR") &&(employee.empSalary>=75000) ){
+        console.log(employee);
     }
    
 })
-console.log(empMahi)
-console.log(empVinay);
